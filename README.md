@@ -1,2 +1,10 @@
 # BeAcademy_FromZeroToHero_IntroducaoJavaScript
-Repositório para exemplos e exercícios das aulas de Introdução a JavaScript
+*Intrudução a JavaScript
+*Tipos de dados
+*Variáveis
+*Prática
+*Funções
+*Manipulação de dados (String e array)
+*Operadores
+*Controle e condições( IF, ELSE/ SWITCH/THROW / TRY, CATCH)
+*Estrutura de repetição
